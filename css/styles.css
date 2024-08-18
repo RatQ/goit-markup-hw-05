@@ -508,6 +508,10 @@ img {
     color: #fff;
 }
 
+.subscribe {
+    margin-left: 80px;
+}
+
 .subscribe-form {
     display: flex;
     gap: 24px;
